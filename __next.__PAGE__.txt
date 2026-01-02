@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[34912,["/typst-online-editor/_next/static/chunks/f955030cdca81831.js","/typst-online-editor/_next/static/chunks/0e1639118558de50.js","/typst-online-editor/_next/static/chunks/0fa948b34ba97311.js"],"default",1]
+3:I[97367,["/typst-online-editor/_next/static/chunks/c4c2ca8c03e55859.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"4dGTK26Z1OLcKcBKDnGNg","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/typst-online-editor/_next/static/chunks/f955030cdca81831.js","async":true}],["$","script","script-1",{"src":"/typst-online-editor/_next/static/chunks/0e1639118558de50.js","async":true}],["$","script","script-2",{"src":"/typst-online-editor/_next/static/chunks/0fa948b34ba97311.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
