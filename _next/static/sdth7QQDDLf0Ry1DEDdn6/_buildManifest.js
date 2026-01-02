@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/typst-online-editor//_next/:path+",
-        "destination": "/typst-online-editor/_next/:path+"
+        "source": "/typst-online-editor-static//_next/:path+",
+        "destination": "/typst-online-editor-static/_next/:path+"
       }
     ],
     "fallback": []
